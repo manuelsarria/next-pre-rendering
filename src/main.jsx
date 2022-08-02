@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import UserList from '../pages/users'
+import UserList from './pages/users'
 import App from './App'
 import './index.css'
 
